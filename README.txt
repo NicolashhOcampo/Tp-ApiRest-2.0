@@ -1,0 +1,1 @@
+Modificar el archivo application.properties, colocando la url de la base de datos local H2 y el usuario
